@@ -40,6 +40,15 @@ export default function HeaderLinks(props) {
       </ListItem>
       <ListItem className={classes.listItem}>
         <Button
+          href={process.env.PUBLIC_URL + '/about'}
+          color="transparent"
+          className={classes.navLink}
+        >
+          About
+        </Button>
+      </ListItem>
+      <ListItem className={classes.listItem}>
+        <Button
           href={process.env.PUBLIC_URL + '/hackandtech'}
           color="transparent"
           target="_blank"
