@@ -54,7 +54,7 @@ export default function IntroResourcesPage(props) {
         <div className={classes.container}>
           {/* sections go here */}
           <ResourceSection />
-          <GitHubIntroResource />
+          {/* <GitHubIntroResource /> */}
         </div>
       </div>
       <Footer />
