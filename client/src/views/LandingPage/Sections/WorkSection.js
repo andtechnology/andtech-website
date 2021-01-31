@@ -23,7 +23,7 @@ export default function WorkSection() {
           <h2 className={classes.title}>Get in touch!</h2>
           <h4 className={classes.description}>
             If you have any questions about &amp;TECH or want to get involved, <a href='mailto:hello@andtechnology.org'>shoot us an email
-            </a> or <a href="https://discord.gg/XMkyvbyNT9">join our Discord Server</a>
+            </a> or <a href="https://discord.gg/QeUzfvp9V2">join our Discord Server</a>
           </h4>
           <form>
             {/* <GridContainer justify="center"> */}
