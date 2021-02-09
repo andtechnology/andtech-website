@@ -87,10 +87,10 @@ export default function HeaderLinks(props) {
           }}
           // buttonIcon={Apps}
           dropdownList={[
-            <Link to={process.env.PUBLIC_URL + '/introstarters'} className={classes.dropdownLink}>
+            <Link to={'/introstarters'} className={classes.dropdownLink}>
               Intro Starters
             </Link>,
-            <Link to={process.env.PUBLIC_URL + '/advancedstarters'} className={classes.dropdownLink}>
+            <Link to={'/advancedstarters'} className={classes.dropdownLink}>
               Advanced Starters
           </Link>
           ]}
