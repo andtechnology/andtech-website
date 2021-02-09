@@ -1,27 +1,71 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e13a5086a0a57f88de07672476502ede",
+    "revision": "2b5ae3f278f180a666a09b705962dd7e",
     "url": "/andtech-website/index.html"
   },
   {
-    "revision": "62b5fc474a62044102e0",
-    "url": "/andtech-website/static/css/main.27e9d3dc.chunk.css"
+    "revision": "3bbc07288929d55da0ed",
+    "url": "/andtech-website/static/css/main.56d7535f.chunk.css"
   },
   {
-    "revision": "443b678583d6b059accf",
-    "url": "/andtech-website/static/js/2.34c88528.chunk.js"
+    "revision": "9a1208c4db5a3bfb2d3c",
+    "url": "/andtech-website/static/js/0.5af84522.chunk.js"
   },
   {
-    "revision": "8273986cd85177be9445df20a76c7f68",
-    "url": "/andtech-website/static/js/2.34c88528.chunk.js.LICENSE.txt"
+    "revision": "1498606501ebe98ebcaf4e8d6200c692",
+    "url": "/andtech-website/static/js/0.5af84522.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "62b5fc474a62044102e0",
-    "url": "/andtech-website/static/js/main.9eaea97d.chunk.js"
+    "revision": "85f30e33c80fea793c49",
+    "url": "/andtech-website/static/js/1.6946ec67.chunk.js"
   },
   {
-    "revision": "c7135667428565143235",
-    "url": "/andtech-website/static/js/runtime-main.0920fa3e.js"
+    "revision": "c251be4e9842592093e0098333b51410",
+    "url": "/andtech-website/static/js/1.6946ec67.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "c6bbb4a3ef07edc4f83e",
+    "url": "/andtech-website/static/js/10.7a99ab81.chunk.js"
+  },
+  {
+    "revision": "87e431861f3dabf4ee14",
+    "url": "/andtech-website/static/js/4.cc9000fe.chunk.js"
+  },
+  {
+    "revision": "3df54bba2137ec524f3fb39f2c61461a",
+    "url": "/andtech-website/static/js/4.cc9000fe.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "e3692b5070682e5312f9",
+    "url": "/andtech-website/static/js/5.96bb9df6.chunk.js"
+  },
+  {
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/andtech-website/static/js/5.96bb9df6.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "18cca8e7baa9cb9df9c8",
+    "url": "/andtech-website/static/js/6.4c9a7fd1.chunk.js"
+  },
+  {
+    "revision": "72bb08011a7715b99031",
+    "url": "/andtech-website/static/js/7.aeed5321.chunk.js"
+  },
+  {
+    "revision": "d80051a724466082fb52",
+    "url": "/andtech-website/static/js/8.7a65018f.chunk.js"
+  },
+  {
+    "revision": "f525d6f0560133b85acb",
+    "url": "/andtech-website/static/js/9.8f50c6b7.chunk.js"
+  },
+  {
+    "revision": "3bbc07288929d55da0ed",
+    "url": "/andtech-website/static/js/main.c44188ca.chunk.js"
+  },
+  {
+    "revision": "548c4fe699cd3d6fd209",
+    "url": "/andtech-website/static/js/runtime-main.8245985b.js"
   },
   {
     "revision": "1bc1a5317f3dda52d87848e08add2aeb",
@@ -68,22 +112,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/andtech-website/static/media/avatar.88e798a9.jpg"
   },
   {
-    "revision": "e52419719dd0c4c8b172136f0b625008",
-    "url": "/andtech-website/static/media/christian.e5241971.jpg"
-  },
-  {
-    "revision": "c058841b1dd64e5f79c6348b24cfb78d",
-    "url": "/andtech-website/static/media/clem-onojegaw.c058841b.jpg"
-  },
-  {
-    "revision": "216ef03c54bc13771c5e1b8d8f8d5926",
-    "url": "/andtech-website/static/media/clem-onojeghuo.216ef03c.jpg"
-  },
-  {
-    "revision": "9813593cc577a319a2201342ef0fb237",
-    "url": "/andtech-website/static/media/cynthia-del-rio.9813593c.jpg"
-  },
-  {
     "revision": "8de9cb223bcdbe7d5ace4eb3d66ac8a1",
     "url": "/andtech-website/static/media/hackandtech-bg.8de9cb22.png"
   },
@@ -96,43 +124,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/andtech-website/static/media/literature.52852966.jpg"
   },
   {
-    "revision": "4575c40bfb8dec6713d2da51c4c4066e",
-    "url": "/andtech-website/static/media/mariya-georgieva.4575c40b.jpg"
-  },
-  {
     "revision": "5bc8305c61634b415362729608115fa0",
     "url": "/andtech-website/static/media/music.5bc8305c.jpg"
   },
   {
-    "revision": "4112cbc1477d9e149033c5df66087e16",
-    "url": "/andtech-website/static/media/olu-eletu.4112cbc1.jpg"
-  },
-  {
-    "revision": "baf6b40a654b078399e93e3d9cb6d455",
-    "url": "/andtech-website/static/media/profile-bg.baf6b40a.jpg"
-  },
-  {
     "revision": "bff98c996f4a21a61fb93492924930c6",
     "url": "/andtech-website/static/media/sports.bff98c99.jpg"
-  },
-  {
-    "revision": "ae0150c08dbcc95e4f50458e02e5bd5c",
-    "url": "/andtech-website/static/media/studio-1.ae0150c0.jpg"
-  },
-  {
-    "revision": "76e2987ed95634136dd22d4d9e1009a7",
-    "url": "/andtech-website/static/media/studio-2.76e2987e.jpg"
-  },
-  {
-    "revision": "1d5451ced89eabb55683e27e070bdb60",
-    "url": "/andtech-website/static/media/studio-3.1d5451ce.jpg"
-  },
-  {
-    "revision": "e064d0908dbd53b55f8980c02b3748bb",
-    "url": "/andtech-website/static/media/studio-4.e064d090.jpg"
-  },
-  {
-    "revision": "ef5c30ea69b7ad740ee6221782c73741",
-    "url": "/andtech-website/static/media/studio-5.ef5c30ea.jpg"
   }
 ]);

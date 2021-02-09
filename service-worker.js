@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/andtech-website/precache-manifest.e5e5b37d7b6c8ea947fe5c7955c7f486.js"
+  "/andtech-website/precache-manifest.9e8f7e8a67630f23a91f237f545aa64d.js"
 );
 
 self.addEventListener('message', (event) => {
