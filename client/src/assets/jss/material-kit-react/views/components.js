@@ -3,7 +3,7 @@ import { container } from "assets/jss/material-kit-react.js";
 const componentsStyle = {
   container,
   brand: {
-    color: "#FFFFFF",
+    color: "#000000",
     textAlign: "left"
   },
   title: {
@@ -18,7 +18,7 @@ const componentsStyle = {
     margin: "10px 0 0"
   },
   main: {
-    background: "#FFFFFF",
+    background: "#000000",
     position: "relative",
     zIndex: "3"
   },

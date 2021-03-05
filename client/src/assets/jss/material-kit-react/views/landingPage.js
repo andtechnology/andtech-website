@@ -22,7 +22,7 @@ const landingPageStyle = {
     margin: "10px auto 0"
   },
   main: {
-    background: "#FFFFFF",
+    background: "#111111",  // TODO: edit this for main raised background color - gray
     position: "relative",
     zIndex: "3"
   },
